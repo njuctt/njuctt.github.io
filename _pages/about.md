@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>江苏省南京市</p>
+    <p>南京大学新闻传播学院（仙林校区）</p>
+    <p>福建省莆田市（籍贯）<p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +19,25 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+基本情况：蔡甜甜，中国党员，现为南京大学新闻与传播学院2023级新闻传播学（数字营销传播）硕士研究生。本科就读于华南理工大学广告学（品牌传播方向）专业，修读金融学双学位。
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+学生工作：目前为南京大学研究生会宣传与新媒体中心成员；本科期间曾任华南理工大学悦读协会会长、华南理工大学助学支教协会宣传部副部长、2019级广告学班级学习委员
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+竞赛情况：
+2021美国大学生数学建模竞赛全球一等奖（M奖）
+第六届中国数据新闻大赛国家级三等奖
+第13届“挑战杯”中国大学生创业计划竞赛广东省金奖
+第13届全国大学生广告艺术大赛广东省赛区平面类二等奖
+第13届全国大学生广告艺术大赛广东省赛区策划案类三等奖
+第14届全国大学生广告艺术大赛广东省赛区平面类一等奖 
+第14届全国大学生广告艺术大赛广东省赛区策划案类三等奖 
+第二届挖客杯大数据应用挑战赛最佳数据呈现奖
+
+科研项目：
+参与国家级创业训练项目《低碳牧场-微藻发酵新蛋白工厂》
+省级项目《粤港澳大湾区背景下“广东智造”的形象升级与建构》
+百步梯攀登计划《积极老龄化与老龄群体数字融入路径探索》
+
+论文发表：作为第一作者在第五届传播社会学年会发表论文《积极老龄化与老龄群体数字融入路径探索——基于社交关系的初老人群分析》
+
+抗疫事迹：疫情期间曾为抗疫一线医务工作者与公安干警子女提供线上志愿辅导、为家乡师资匮乏的北埭小学四年级，五年级，六年级学生志愿教学。
