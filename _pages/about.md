@@ -9,8 +9,8 @@ profile:
   image: ctt_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>所在地：江苏省 南京市</p>
-    <p>籍贯地：福建省 莆田市<p>
+    <p>江苏省 南京市（所在地）</p>
+    <p>福建省 莆田市（籍贯地）<p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
