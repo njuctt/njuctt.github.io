@@ -2,7 +2,7 @@
 layout: page
 title: project 1
 description: 第13、14届大学生广告艺术大赛广东赛区平面类一等奖、二等奖
-img: assets/img/12.jpg
+img: assets/img/《牙刷的味觉旅行》-1.jpg
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
