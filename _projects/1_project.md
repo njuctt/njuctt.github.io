@@ -7,19 +7,9 @@ importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
 ---
-
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+在第13届、14届大广赛平面类赛道中，前期本人带领团队进行品牌核心主张、产品核心卖点、目标消费人群的消费特性洞察。
+中期本人带领团队依据前期洞察结果进行头脑风暴、思维导图的创意思维拓展和选取创意进行初稿创作。
+后期团队采用 PS、AI 软件依据初稿执行创意，并通过 20 余次的打磨优化使得视觉呈现达到最佳效果。
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -38,15 +28,15 @@ To give your project a background in the portfolio page, just add the img tag to
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/《牙刷的味觉旅行》-1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+         {% include figure.html path="assets/img/《牙刷的味觉旅行》-2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+         {% include figure.html path="assets/img/《牙刷的味觉旅行》-3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+作品介绍：结合HBN双A精华抗初老的产品功能，作品将HBN双A精华乳作为定格时间的关键融入到了相机、胶卷以及电子表中。三幅系列作品表达的是：HBN双A精华乳，可以定格二九年华（18岁）；可以静止桃李年华（20岁）；可以留住花信年华（24岁）。
 
 
 <div class="row">
@@ -70,24 +60,7 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    第14届大学生广告艺术大赛广东省赛区平面类一等奖作品. 
 </div>
 
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
 {% endraw %}
