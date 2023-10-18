@@ -22,7 +22,6 @@ giscus_comments: true
 <div class="caption">
     第14届大学生广告艺术大赛广东省赛区策划案类三等奖作品. 
 </div>
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/策划案一1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
