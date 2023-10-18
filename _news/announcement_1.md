@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
  
-My personal website is online! 
+Hi! My personal website is online! 
