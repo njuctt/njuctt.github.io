@@ -2,7 +2,7 @@
 layout: page
 title: project 2
 description: 中国数据新闻大赛作品《毒与“独”的碰撞——揭秘老年吸毒群体》
-img: assets/img/数据新闻PPT1.png
+img: assets/img/数据新闻PPT1.jpg
 importance: 2
 category: work
 giscus_comments: true
